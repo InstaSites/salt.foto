@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://salt.photos/sitemap.xml
